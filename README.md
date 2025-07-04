@@ -6,7 +6,7 @@
 - 💻 Exploring **Python, C++, Embedded C**, and beginning my journey in **Web Development**
 - 🚀 I aim to contribute to impactful open-source projects and bring innovation in **IoT and AI domains**
 - 🌟 Always excited to learn new tools, frameworks, and concepts
-- 🎯 Future Goal: To work in **core tech companies** or **government R&D units (like ISRO/DRDO)**
+- 🎯 Future Goal: To work in **Core tech companies** or **SpaceX/Nasa**
 
 ---
 
