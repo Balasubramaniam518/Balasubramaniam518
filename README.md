@@ -23,7 +23,6 @@ A simple yet engaging snake game built using the `turtle` module in Python.
 | Platform | Handle |
 |----------|--------|
 | 📧 Email | rbalasubramaniam050108@gmail.com |
-| 💬 Discord | panda_reaper5 |
 | 💬 Linkedin | https://www.linkedin.com/in/r-balasubramaniam-18b610359/ |
 
 ---
