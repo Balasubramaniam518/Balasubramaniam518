@@ -14,7 +14,7 @@
 
 A simple yet engaging snake game built using the `turtle` module in Python.
 
-[🔗 View Repository](#) *https://github.com/Balasubramaniam518/Snake-game-Using-turtle-*
+[🔗 View Repository](#)  *https://github.com/Balasubramaniam518/Snake-game-Using-turtle-*
 
 ---
 
@@ -31,7 +31,7 @@ A simple yet engaging snake game built using the `turtle` module in Python.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/balasubramaniam518/)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
