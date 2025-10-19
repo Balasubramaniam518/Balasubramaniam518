@@ -3,7 +3,7 @@
 - 🎓 I'm currently pursuing **B.Tech in Electronics and Communication Engineering at SRMIST**
 - 🧠 Passionate about **Coding, Embedded Systems, AI**, and **Tech that solves real-world problems**
 - 🕹️ Creating fun games which includes Snake -game based on python turtle
-Founder and CEO @ ReanPixel & Necisity**
+Founder and CEO @ ReanPixel & Necisity
 - 💻 Exploring **Python, C++, Embedded C**, and beginning my journey in **Web Development**
 - 🚀 I aim to contribute to impactful open-source projects and bring innovation in **IoT and AI domains**
 - 🌟 Always excited to learn new tools, frameworks, and concepts
