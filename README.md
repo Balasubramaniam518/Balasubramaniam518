@@ -1,6 +1,6 @@
 # Hi There 👋 I'm R BALASUBRAMANIAM
 
-- 🎓 I'm currently pursuing **B.Tech in Electronics and Communication Engineering**
+- 🎓 I'm currently pursuing **B.Tech in Electronics and Communication Engineering at SRMIST**
 - 🧠 Passionate about **Coding, Embedded Systems, AI**, and **Tech that solves real-world problems**
 - 🕹️ Creator of fun Python projects like the **Turtle-based Snake Game**
 - 💻 Exploring **Python, C++, Embedded C**, and beginning my journey in **Web Development**
